@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+  <map version="1.0">
+    <mapID target="ayuda" url="html/Ayuda.html"/>
+    <mapID target="botones" url="html/Botones.html"/>
+    <mapID target="referencias" url="html/Referencias.html"/>
+    <mapID target="inicio" url="html/index.html" />
+  </map>
+  
