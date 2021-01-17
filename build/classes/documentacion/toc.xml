@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toc version="1.0">
+    <tocitem text="Ayuda">
+        <tocitem text="Formularios">
+            <tocitem text="Inicio" target="inicio"/>
+            <tocitem text="Botones" target="botones"/>
+            <tocitem text="Referencias" target="referencias"/>
+            <tocitem text="Ayuda" target="ayuda"/>
+        </tocitem>
+    </tocitem>
+</toc>
+
+
